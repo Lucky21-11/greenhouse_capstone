@@ -1,0 +1,13 @@
+environment,condition,speed,battery,sensor
+Indoor,Low,20,10,LiDAR
+Indoor,Medium,30,16,LiDAR
+Indoor,High,40,24,LiDAR
+Indoor,Low,25,12,Camera
+Outdoor,Low,18,14,LiDAR
+Outdoor,Medium,28,21,Camera
+Outdoor,High,35,30,Camera
+Outdoor,Medium,30,23,LiDAR
+Warehouse,Low,22,11,Camera
+Warehouse,Medium,32,17,LiDAR
+Warehouse,High,38,26,Camera
+Warehouse,High,36,27,LiDAR

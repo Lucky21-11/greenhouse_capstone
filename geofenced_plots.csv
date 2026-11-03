@@ -1,0 +1,11 @@
+Plot_ID,Latitude,Longitude,Soil_Moisture,Temperature,Crop_Variety,Farmer_Name,Irrigation_Duration
+P101,19.075,72.878,42.5,32,Sugarcane,Farmer_A,45
+P102,19.076,72.879,35.0,34,Sugarcane,Farmer_B,60
+P103,19.077,72.880,,33,Rice,Farmer_C,50
+P104,19.078,72.881,48.0,31,Rice,Farmer_D,40
+P105,19.079,72.882,30.5,35,Sugarcane,Farmer_E,55
+P106,19.080,72.883,,36,Wheat,Farmer_F,35
+P107,19.081,72.884,38.0,34,Rice,Farmer_A,45
+P108,19.082,72.885,28.5,37,Wheat,Farmer_B,40
+P109,19.083,72.886,45.0,32,Sugarcane,Farmer_C,50
+P110,19.084,72.887,36.5,35,Wheat,Farmer_D,30
